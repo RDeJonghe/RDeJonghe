@@ -10,10 +10,7 @@ You can find out more about me here:
 
 **I'm currently looking for opportunities so please reach out!**
 
-I have experience with these technologies and many more:
-
-[![My Skills](https://skillicons.dev/icons?i=ruby,js,ts,express,postgres,react)](https://skillicons.dev)
-
+---
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,js,ts,express,postgres,react" />
