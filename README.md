@@ -14,14 +14,7 @@ I have experience with:
 
 ---
 
-<p align="center">
-  I have experience with:
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,docker,express,figma,git,github,go,heroku,js,jest,mongodb,nginx,nodejs,postgres,postman,prisma,react,redis,ruby,tailwind,ts,vscode&perline=6" />
-  </a>
-</p>
-
-
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,docker,express,figma,git,github,go,heroku,js,jest,mongodb,nginx,nodejs,postgres,postman,prisma,react,redis,ruby,tailwind,ts,vscode&perline=6)](https://skillicons.dev)
 
 <!--
 **RDeJonghe/RDeJonghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
