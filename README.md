@@ -5,6 +5,9 @@ I'm a full-stack software engineer experienced in Ruby, JavaScript, TypeScript, 
 Recently, I co-created [Seamless](https://seamless-cicd.com/) an open-source, low-config CI/CD pipeline for containerized microservices.
 
 You can find out more about me here:
+- <a href="https://www.linkedin.com/in/ryan-dejonghe-50a822272" target="_blank">LinkedIn</a>
+- <a href="https://www.rdejonghe.com" target="_blank">LinkedIn</a>
+
 - [LinkedIn](https://www.linkedin.com/in/ryan-dejonghe-50a822272/)
 - [rdejonghe.com](https://www.rdejonghe.com/)
 
