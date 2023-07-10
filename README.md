@@ -8,8 +8,6 @@ You can find out more about me here:
 - [LinkedIn](https://www.linkedin.com/in/ryan-dejonghe-50a822272/)
 - [rdejonghe.com](https://www.rdejonghe.com/)
 
-**I'm currently looking for opportunities so please reach out!**
-
 ---
 <p align="center">
   <a href="https://skillicons.dev">
