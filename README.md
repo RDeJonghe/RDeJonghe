@@ -6,7 +6,7 @@ Recently, I co-created [Seamless](https://seamless-cicd.com/) an open-source, lo
 
 You can find out more about me here:
 - [LinkedIn](https://www.linkedin.com/in/ryan-dejonghe-50a822272/)
-- [rdejonghe.com](https://www.rdejonghe.com/)
+- [rdejonghe.github.io](https://www.rdejonghe.github.io/)
 
 ---
 <p align="center">
